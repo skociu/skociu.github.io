@@ -1,1 +1,1 @@
-"# skociu-resume" 
+"# skociu" 
